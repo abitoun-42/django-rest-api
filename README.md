@@ -1,4 +1,4 @@
-# Project Title
+# Django API
 
 This is a API created with basic request and JWT token Authentification to learn Django and Django Rest
 
