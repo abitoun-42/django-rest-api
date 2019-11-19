@@ -14,7 +14,7 @@ What things you need to install the software and how to install them
 Python 3.5 and above
 ```
 
-### Installing
+### Installing on macOS
 
 go to your working directory :
 
